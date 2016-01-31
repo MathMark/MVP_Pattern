@@ -1,0 +1,9 @@
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\bin\Debug\MVP_Patt.exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\bin\Debug\MVP_Patt.exe
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\bin\Debug\MVP_Patt.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\obj\Debug\MVP_Patt.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\obj\Debug\MVP_Patt.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\obj\Debug\MVP_Patt.csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\obj\Debug\MVP_Patt.exe
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\obj\Debug\MVP_Patt.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\MVP_Patt\MVP_Patt\obj\Debug\MVP_Patt.MainForm.resources
